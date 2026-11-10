@@ -25,11 +25,11 @@
 <td width="62%" valign="top">
 
 ```yaml
-nama      : Rika
+nama      : Harika Shry
 peran     : Backend & Frontend Developer
 fokus     : Membangun aplikasi web end-to-end
 sedang    : Belajar cybersecurity (phishing, web security)
-suka      : Kode rapi, API bersih, UI yang halus
+suka      : matcha
 kontak    : harikashry@gmail.com
 ```
 
@@ -104,21 +104,6 @@ Proyek belajar keamanan siber: mendeteksi URL phishing lewat analisis pola dan s
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-In_Progress-5fe3d2?style=for-the-badge&labelColor=0f2027)
 ![Web Security](https://img.shields.io/badge/Web_Security-Learning-203a43?style=for-the-badge&labelColor=0f2027)
 ![Phishing](https://img.shields.io/badge/Phishing_Detection-Exploring-2c5364?style=for-the-badge&labelColor=0f2027)
-
-</div>
-
-<br/>
-
-## 📊 Statistik GitHub
-
-<div align="center">
-
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=rika29-r&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f2027&title_color=5fe3d2&icon_color=5fe3d2" />
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rika29-r&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f2027&title_color=5fe3d2" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rika29-r&theme=tokyonight&hide_border=true&background=0f2027&ring=5fe3d2&fire=5fe3d2&currStreakLabel=5fe3d2" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rika29-r&bg_color=0f2027&color=5fe3d2&line=5fe3d2&point=ffffff&area=true&area_color=2c5364&hide_border=true" width="100%" />
 
 </div>
 
