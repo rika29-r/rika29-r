@@ -81,15 +81,6 @@ Proyek front-end **Solé Slides**, brand fiktif dengan tiga varian warna.
 
 ---
 
-## 📊 Statistik GitHub
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=rika29-r&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f2027&title_color=5fe3d2&icon_color=5fe3d2" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rika29-r&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f2027&title_color=5fe3d2" />
-
-</div>
-
 ---
 
 <div align="center">
